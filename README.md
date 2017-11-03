@@ -7,7 +7,7 @@ A simple output video of the system can be watched at this
 
 ## Citation
 
-If you use the Thinker framework, you must cite:
+If you use the Videolization framework, you must cite:
 
 > Kalender, M., Eren, M.T., Wu, Z. et al. 
 > Videolization: knowledge graph based automated video generation from web content
